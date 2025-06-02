@@ -3,4 +3,4 @@
 ## Tech Stack will be 
 - NextJS
 - Tailwind CSS
-- Clerk to handle authentication
+- Clerk to handle authentication (https://clerk.com)
