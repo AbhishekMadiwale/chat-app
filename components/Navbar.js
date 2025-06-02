@@ -7,7 +7,7 @@ function Navbar() {
     <nav className="bg-gray-800 text-white p-4">
       <div className="container mx-auto flex justify-between items-center px-30">
         <Link href="/" className="text-xl font-bold">
-          My App
+          WeChat
         </Link>
         <div className="flex gap-10">
         <ul>
